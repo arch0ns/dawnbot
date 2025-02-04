@@ -9,7 +9,7 @@ Multi Thread
 Count Ping
 Support Proxy (1 Proxy 1 Account)
 
-##TUTORIAL (https://www.youtube.com/watch?v=B0kKh3VJbqI)
+## TUTORIAL (https://www.youtube.com/watch?v=B0kKh3VJbqI)
 
 
 
